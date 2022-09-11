@@ -6,4 +6,8 @@
 
 ![](https://img.shields.io/badge/<UI/UX>-<Figma>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Sketching>-<Concepts>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Sketching>-<Adobe Illustrator>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Code>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Editor>-<IntelliJ>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<App Development>-<Flutter>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Editor>-<Android Studio>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
