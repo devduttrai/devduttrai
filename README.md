@@ -18,7 +18,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]:https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.stickpng.com%2Fthumbs%2F580b57fcd9996e24bc43c53e.png&imgrefurl=http%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Ftwitter-logo&tbnid=C6o_gRlErzmDVM&vet=12ahUKEwjI9N2om436AhWryaACHWjSBEUQMygAegUIARDYAQ..i&docid=GSwnFoh8DMG7hM&w=400&h=400&q=twitter%20icon%20without%20background&ved=2ahUKEwjI9N2om436AhWryaACHWjSBEUQMygAegUIARDYAQ
+[1.2]:https://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
