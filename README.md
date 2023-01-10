@@ -19,3 +19,5 @@ Hi, I am Devdutt Rai<br>Web Developer | UI/UX Desinger <br><br>I’m currently w
 [![](https://visitcount.itsvg.in/api?id=devduttrai&icon=8&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://leetcard.jacoblin.cool/devduttrai03?ext=heatmap)
